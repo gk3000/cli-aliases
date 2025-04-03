@@ -67,7 +67,7 @@ touch .bashrc
 
 Open `.bashrc` in your code editor.
 
-### Adding aliases
+### Both systems: adding aliases
 
 This is where we are going to create our custom commands. The format is:
 ```
