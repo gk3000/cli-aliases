@@ -79,7 +79,7 @@ Let's test it by making a new line after all the code you already have in this f
 alias test="echo 'hello'"
 ```
 
-Now save the file, go to the terminal and run `source ~/.bash_profile` for the changes to take effect. 
+Now save the file, go to the terminal and run `source ~/.bash_profile` for Mac or `source ~/.bashrc` for Windows for the changes to take effect. 
 
 Try if it works by running `test` command which should print "hello" in the terminal. 
 
