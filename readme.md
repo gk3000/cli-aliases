@@ -1,5 +1,7 @@
 # Creating you own terminal commands
 
+testing banana
+
 Did you know that you can create your own custom commands to run in the terminal? Similar to how you use `cd`, `ls` and so on...
 
 ## Why bother? 
